@@ -1,0 +1,15 @@
+name: 1brc
+channels:
+  - conda-forge
+dependencies:
+  - dask=2024.9.1
+  - ibis-framework=9.5.0
+  - jupyterlab=4.2.5
+  - jupytext=1.16.4
+  - matplotlib=3.9.2
+  - modin-dask=0.32.0
+  - pandas=2.2.3
+  - polars=1.8.2
+  - pyarrow=17.0.0
+  - python=3.12.5
+  - python-duckdb=1.0.0
